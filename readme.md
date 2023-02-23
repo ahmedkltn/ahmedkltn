@@ -1,9 +1,6 @@
 ## Ahmed Klabi
 
-Hi there! My name is Ahmed Klabi, and I am a student from Mahdia, Tunisia, currently pursuing my bachelor's degree. I have been passionate about computers and programming since I was a child, and my interest has only grown stronger over time.
-Background and Interests
-
-I started my programming journey by creating games with Scratch and then moved on to more advanced projects with codeHS. As I progressed, I became more interested in problem-solving, which eventually led me to pursue data science as a career.
+Hi there! My name is Ahmed Klabi, and I am a student from Mahdia, Tunisia, currently pursuing my bachelor's degree in business computing.
 
 Currently, I'm exploring various data science topics such as data visualization and machine learning, and I'm constantly learning about new things in this field. I'm also working on several projects that allow me to apply my skills to real-world problems.
 Kaggle Profile
