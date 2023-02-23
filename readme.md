@@ -6,8 +6,9 @@ Currently, I'm exploring various data science topics such as data visualization 
 #### Kaggle Profile :
 
 You can check out my Kaggle profile here where i contribute with codes and datasets : [Kaggle profile](https://www.kaggle.com/ahmedklabi)
-If you have any insights, feedback, or opportunities you'd like to share, feel free to reach out to me. 
 #### Contact :
+If you have any insights, feedback, or opportunities you'd like to share, feel free to reach out to me. 
+
 You can contact me through the following channels:
 -   LinkedIn: [ahmed klabi](https://www.linkedin.com/in/ahmed-klabi-168265217)    
 -   Email: ahmedklabi10@gmail.com
