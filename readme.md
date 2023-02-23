@@ -13,4 +13,4 @@ You can contact me through the following channels:
 -   LinkedIn: [ahmed klabi](https://www.linkedin.com/in/ahmed-klabi-168265217)    
 -   Email: ahmedklabi10@gmail.com
 
-Thanks for visiting my profile, and I look forward to connecting with you!
+Thanks for visiting my profile.
