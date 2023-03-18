@@ -12,5 +12,6 @@ If you have any insights, feedback, or opportunities you'd like to share, feel f
 You can contact me through the following channels:
 -   LinkedIn: [ahmed klabi](https://www.linkedin.com/in/ahmed-klabi-168265217)    
 -   Email: ahmedklabi10@gmail.com
+-   Portfolio : https://www.datascienceportfol.io/ahmedkltn
 
 Thanks for visiting my profile.
