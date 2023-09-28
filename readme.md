@@ -11,7 +11,7 @@ You can check out my Kaggle profile here where i contribute with codes and datas
 If you have any insights, feedback, or opportunities you'd like to share, feel free to reach out to me. 
 
 You can contact me through the following channels:
--   LinkedIn: [ahmed klabi](https://www.linkedin.com/in/ahmed-klabi-168265217)    
+-   LinkedIn: [ahmed klabi](https://www.linkedin.com/in/ahmedkltn/)    
 -   Email: ahmedklabi10@gmail.com
 -   Portfolio : https://www.datascienceportfol.io/ahmedkltn
 
