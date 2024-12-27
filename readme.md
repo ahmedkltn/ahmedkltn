@@ -13,5 +13,5 @@ If you have any insights, feedback, or opportunities you'd like to share, feel f
 You can contact me through the following channels:
 -   LinkedIn: [ahmed klabi](https://www.linkedin.com/in/ahmedkltn/)    
 -   Email: ahmedklabi10@gmail.com
--   
+  
 Thanks for visiting my profile.
